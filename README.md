@@ -1,3 +1,4 @@
 # hello-
 a simple program
-https://github.com/avan0
+My Github: https://github.com/mdiaz-8
+Hack partner Github: https://github.com/avan0
